@@ -1,6 +1,8 @@
 # 😺 Daiki_Okajima
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaonashi72&theme=github_dark)
+<div style="display: flex; flex-direction: column; align-items: center;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaonashi72&theme=github_dark" />
+</div>
 
 ## 📗 INDEX
 
@@ -19,9 +21,12 @@ Daiki_Okajima と申します。フリーランスのエンジニアをやって
 
 また、PJのマネージャー業務もしており、プロジェクトを円滑に進めるため日々勉強しています。
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theabbie&layout=compact&theme=radical" />
+<div align="left"> 
 
+### 🌱 Skills
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,react,php,figma,python,fastapi,docker,aws" />
 
+<br>
 
 ### <過去>
 
@@ -38,22 +43,37 @@ Daiki_Okajima と申します。フリーランスのエンジニアをやって
 また[NPOの活動](https://unippo.jp/)も行っているため、1エンジニアの領域にとどまらず、マクロの視点で社会課題を発見・認知・解決できる人材になりたいと思っています。
 
 ---
-<table>
-<thead>
-<tr>
-<th colspan="2">Quick Info</th>
-</tr>
-</thead>
-<tbody>
-<tr><th scope='row'>Name</th><td>Daiki Okajima</td></tr>
-<tr><th scope='row'>Born</th><td><time datetime="1998-08-21 10:00">1998-08-21</time></td></tr>
-<tr><th scope='row'>Birthplace</th><td>新潟県 -> 柏崎市</time></td></tr>
-<tr><th scope='row'>Education</th><td>私4年制大卒業</td></tr>
-<tr><th scope='row'>Likes</th><td>⚽️, 📕, ☕</td></tr>
-<tr><th scope='row'>Dislikes</th><td>🍅, 🐛</td></tr>
-<tr><th scope='row'>Occupation</th><td>Webエンジニア</td></tr>
-</tbody>
-</table>
+<div style="overflow: hidden;">
+  <table style="float: left; margin-right: 20px;">
+    <thead>
+      <tr>
+        <th colspan="2">Quick Info</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><th scope='row'>Name</th><td>Daiki Okajima</td></tr>
+      <tr><th scope='row'>Born</th><td><time datetime="1998-08-21 10:00">1998-08-21</time></td></tr>
+      <tr><th scope='row'>Birthplace</th><td>新潟県 -> 柏崎市</td></tr>
+      <tr><th scope='row'>Education</th><td>私4年制大卒業</td></tr>
+      <tr><th scope='row'>Likes</th><td>📕, ☕, ⚽️(Atlético de Madrid)</td></tr>
+      <tr><th scope='row'>Dislikes</th><td>🍅, 🐛</td></tr>
+    </tbody>
+  </table>
+
+  <table style="float: left;">
+    <thead>
+      <tr>
+        <th colspan="2">Certifications</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><th scope='row'>IPA</th><td>基本情報技術者試験</td></tr>
+      <tr><th scope='row'><img src="https://github.com/user-attachments/assets/4a1c152b-5508-4b94-a7f3-24d979ab182b" width="32" height="32"/></th><td>AWS Certified Solutions Architect – Associate</td></tr>
+      <tr><th scope='row'><img src="https://github.com/user-attachments/assets/e53264b5-9dbc-4d5e-abd5-6c96ebf5a1b6" width="32" height="32"/></th><td>ORACLE MASTER Silver DBA 2019</td></tr>
+      <tr><th scope='row'><img src="https://github.com/user-attachments/assets/b2887626-e34e-4ed7-b964-0618fe35cc58" width="32" height="32"/></th><td>ORACLE MASTER Bronze DBA 2019</td></tr>
+    </tbody>
+  </table>
+</div>
 
 <br>
 
