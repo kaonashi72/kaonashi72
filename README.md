@@ -34,7 +34,7 @@ Daiki_Okajima と申します。フリーランスのエンジニアをやって
 
 学生時代からクリエイティブな仕事がしたかった私は、デザイン・コーディングの経験もありエンジニアの世界へ。
 
-全てが新鮮かつ自身の知識の少なさから、勉強の毎日。当時のこの経験が現在の日々の学習の土台が培われたと感じています。
+全てが新鮮かつ自身の知識の少なさから、勉強の毎日。当時のこの経験により現在の日々の学習の土台が培われたと感じています。
 
 ### <未来>
 
@@ -60,6 +60,7 @@ Daiki_Okajima と申します。フリーランスのエンジニアをやって
     </tbody>
   </table>
 
+
   <table style="float: left;">
     <thead>
       <tr>
@@ -69,8 +70,8 @@ Daiki_Okajima と申します。フリーランスのエンジニアをやって
     <tbody>
       <tr><th scope='row'>IPA</th><td>基本情報技術者試験</td></tr>
       <tr><th scope='row'><img src="https://github.com/user-attachments/assets/4a1c152b-5508-4b94-a7f3-24d979ab182b" width="32" height="32"/></th><td>AWS Certified Solutions Architect – Associate</td></tr>
+      <tr><th scope='row'><img src="https://github.com/user-attachments/assets/289c6d1c-9c5a-4e76-b23a-724bdf12ff7d" width="32" height="32"/></th><td>Google Cloud Associate Cloud Engineer</td></tr>
       <tr><th scope='row'><img src="https://github.com/user-attachments/assets/e53264b5-9dbc-4d5e-abd5-6c96ebf5a1b6" width="32" height="32"/></th><td>ORACLE MASTER Silver DBA 2019</td></tr>
-      <tr><th scope='row'><img src="https://github.com/user-attachments/assets/b2887626-e34e-4ed7-b964-0618fe35cc58" width="32" height="32"/></th><td>ORACLE MASTER Bronze DBA 2019</td></tr>
     </tbody>
   </table>
 </div>
