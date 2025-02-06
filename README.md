@@ -24,7 +24,7 @@ Daiki_Okajima と申します。フリーランスのエンジニアをやって
 <div align="left"> 
 
 ### 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,react,php,figma,python,fastapi,docker,aws" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,php,figma,python,fastapi,go,docker,aws,googlecloud" />
 
 <br>
 
